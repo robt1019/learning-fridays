@@ -1,0 +1,13 @@
+https://medium.com/@InVisionApp/a-b-and-see-a-beginner-s-guide-to-a-b-testing-a16406f1a239
+
+https://www.infoq.com/presentations/ab-testing-spotify
+
+https://www.slideshare.net/alisarrafi3/ab-testing-at-spotify
+
+https://apptimize.com/
+
+https://medium.com/@petercoyle/getting-your-feet-wet-with-a-b-testing-in-react-adfdbc85c392
+
+https://www.optimizely.com/sample-size-calculator/
+
+https://hackernoon.com/tutorial-ssr-split-testing-and-analytics-with-react-redux-and-next-js-5392799c15c7

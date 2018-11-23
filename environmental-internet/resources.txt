@@ -1,0 +1,31 @@
+# Infographics
+https://www.kualo.co.uk/blog/the-environmental-impact-of-the-internet
+http://www.mightybytes.com/wp-content/uploads/2018/04/Ecograder-Internet-Sustainability.png
+
+# Greenpeace guide
+http://www.greenpeace.org/usa/wp-content/uploads/legacy/Global/usa/planet3/PDFs/2015ClickingClean.pdf
+
+# Carbon analytics calculation formula
+https://www.johnniewalker.com/media/2637/earth-mode-calculations-carbon-analytics.pdf
+
+# Carbon Analytics
+https://www.co2analytics.com/
+
+# What is a colocation centre
+https://en.wikipedia.org/wiki/Colocation_centre
+
+# Articles
+https://www.theguardian.com/environment/2017/dec/11/tsunami-of-data-could-consume-fifth-global-electricity-by-2025
+https://www.forbes.com/sites/neilyeoh/2017/07/26/your-web-use-leaves-a-carbon-footprint-heres-how-you-can-reduce-it/#4ddb90719401
+https://www.wired.com/2015/05/netflix-says-streaming-greener-reading-breathing/
+
+# Products
+http://www.webneutralproject.com/
+https://ecograder.com/
+
+# Netflix
+https://media.netflix.com/en/company-blog/renewable-energy-at-netflix-an-update
+
+# Browser information
+http://webkay.robinlinus.com/
+https://gizmodo.com/heres-all-the-data-collected-from-you-as-you-browse-the-1820779304
