@@ -1,0 +1,19 @@
+{
+  "name": "Screensizer",
+  "version": "1.0",
+  "description": "display the users screen soize",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "content_scripts": [
+    {
+      "js": ["contentscript.js"],
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ]
+    }
+  ],
+  "manifest_version": 2
+}
